@@ -1,3 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap");
+
+.ug-bitum,
+.ug-bitum *,
+.ug-bitum *::before,
+.ug-bitum *::after {
+  font-family: "Manrope", "Segoe UI", sans-serif;
+}
+
+.ug-bitum a,
+.ug-bitum a:hover,
+.ug-bitum a:focus,
+.ug-bitum a:active,
+.ug-bitum a:visited {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.ug-bitum .button,
+.ug-bitum .button:hover,
+.ug-bitum .button:focus,
+.ug-bitum .button:active,
+.ug-bitum .button:visited {
+  text-decoration: none !important;
+}
+
+.ug-bitum .header__nav a {
+  color: rgba(255, 255, 255, 0.84) !important;
+}
+
+.ug-bitum .header__nav a:hover {
+  color: #ffffff !important;
+}
+
+.ug-bitum .header__phone {
+  color: #ffffff !important;
+}
+
+.ug-bitum .header__mail {
+  color: rgba(255, 255, 255, 0.72) !important;
+}
+
+.ug-bitum .button--accent,
+.ug-bitum .button--accent:hover,
+.ug-bitum .button--accent:focus,
+.ug-bitum .button--accent:active,
+.ug-bitum .button--accent:visited,
+.ug-bitum a.button--accent,
+.ug-bitum a.button--accent:hover,
+.ug-bitum a.button--accent:focus,
+.ug-bitum a.button--accent:active,
+.ug-bitum a.button--accent:visited {
+  color: #18140a !important;
+}
+
+.ug-bitum .button--hero,
+.ug-bitum .button--hero:hover,
+.ug-bitum .button--hero:focus,
+.ug-bitum .button--hero:active,
+.ug-bitum .button--hero:visited,
+.ug-bitum a.button--hero,
+.ug-bitum a.button--hero:hover,
+.ug-bitum a.button--hero:focus,
+.ug-bitum a.button--hero:active,
+.ug-bitum a.button--hero:visited {
+  color: #18140a !important;
+}
+
+.ug-bitum .button--dark,
+.ug-bitum .button--dark:hover,
+.ug-bitum .button--dark:focus,
+.ug-bitum .button--dark:active,
+.ug-bitum .button--dark:visited,
+.ug-bitum a.button--dark,
+.ug-bitum a.button--dark:hover,
+.ug-bitum a.button--dark:focus,
+.ug-bitum a.button--dark:active,
+.ug-bitum a.button--dark:visited {
+  color: #f5f7fb !important;
+}
+
 .ug-bitum {
   --bg: #f4f5f7;
   --surface: #ffffff;
